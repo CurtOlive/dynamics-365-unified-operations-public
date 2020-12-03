@@ -92,7 +92,7 @@ If you want all vendor transactions to have the same posting profile, set up onl
 </td>
 </tr>
 <tr class="even">
-<td><strong>Settle account</strong></td>
+<td><strong>Liquidity account for payments</strong></td>
 <td>Select the liquidity ledger account that is used for cash flow forecasts. This fields is only available when cash flow forecasting is enabled.</td>
 </tr>
 <tr class="odd">
